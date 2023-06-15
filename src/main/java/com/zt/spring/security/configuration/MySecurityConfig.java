@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring.security.configuration;
+package com.zt.spring.security.configuration;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

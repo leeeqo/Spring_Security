@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring.security.configuration;
+package com.zt.spring.security.configuration;
 
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
@@ -13,7 +13,7 @@ import javax.sql.DataSource;
 import java.beans.PropertyVetoException;
 
 @Configuration
-@ComponentScan("com.zaurtregulov.spring.security")
+@ComponentScan("com.zt.spring.security")
 @EnableWebMvc
 public class MyConfig {
 
